@@ -1,5 +1,9 @@
 # Trabajo Práctico Integrador – Búsqueda y Ordenamiento
 
+## 📌 LINK AL VIDEO:
+
+https://youtu.be/mLPWDwuynbg
+
 ## 📌 Descripción del proyecto
 
 Este proyecto en Python implementa técnicas de **ordenamiento (Quicksort)** y **búsqueda (lineal y binaria)** aplicadas sobre una lista de estudiantes con sus respectivas calificaciones.
